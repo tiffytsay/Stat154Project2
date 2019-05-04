@@ -4,7 +4,7 @@ Foobar is a Python library for dealing with word pluralization.
 
 ## Installation and Setup
 
-All code used to generate the reports is present in the RNW file. There is a separate CVGeneric.RNW file that creates a generic cross-validation function using the library caret. Installing the .RNW will walk users through the entire process of the project.
+All code used to generate the reports is present in the RNW file. There is a separate CVGeneric.R file that creates a generic cross-validation function using the library caret. Installing the .RNW will walk users through the entire process of the project.
 
 
 ## Overview
